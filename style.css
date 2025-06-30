@@ -1,0 +1,12 @@
+.grid-container {
+    display: grid;
+    grid-template-areas:
+        "header"
+        "main"
+        "footer";
+}
+
+footer {
+    grid-area: footer;
+    padding: 2vw;
+}
