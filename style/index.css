@@ -1,6 +1,8 @@
 main {
     background-color: #000000;
     .ABOUT {
+        font-family: 'Pretendard';
+        font-style: normal;
         font-size: 125%;
         color: #ffffff;
         display: flex;
@@ -12,5 +14,7 @@ main {
 }
 
 div {
+    font-family: 'Pretendard';
+    font-style: normal;
     display: block;
 }

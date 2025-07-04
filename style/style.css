@@ -1,4 +1,8 @@
-html { font-size: 75%}
+html { 
+    font-size: 75%;
+    font-family: 'Pretendard';
+    font-style: normal;
+}
 body {
     margin: 0;
 }
