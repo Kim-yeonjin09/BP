@@ -25,7 +25,6 @@ header {
         display: flex;
         gap: 2rem;
         align-items: center;
-        
     }
 
     .HEAD {
@@ -42,6 +41,7 @@ header {
         list-style: none;
         justify-content: space-evenly;
         li {
+            
             font-family: 'Pretendard';
             font-style: normal;
             font-size: 80%;
@@ -56,13 +56,17 @@ header {
 }
 
 footer {
+    font-size :130.35%;
     font-family: 'Pretendard';
     font-style: normal;
     background-color: #000000;
     color: #00ff00;
     padding: 3rem;
-    font-size: 2rem;
+    a {
+        color: #00ff00;
+    }
+    /*font-size: 2rem;
     text-align: center;
-    font-weight: bold;
+    font-weight: bold;*/
 }
   
