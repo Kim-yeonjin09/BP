@@ -28,11 +28,15 @@ main {
         text-align: center;
         justify-content:center;
         align-items: center;
+
+        .WORD {
+        background-color: #000000;
+        border: 5px #00ff00 solid;
+        border-radius: 50px;
+        }
     }
 
-    .HOME:hover {
-        
-    }
+    
 
 }
 
